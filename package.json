@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "pwa": "create-pwa --icon=\"icon.png\" --launch=\"icon.png\""
+    "pwa": "create-pwa --icon=\"icon.png\" --launch=\"icon.png\"",
+    "start": ""
   },
   "name": "lensometer-pwa",
   "version": "1.0.0",
