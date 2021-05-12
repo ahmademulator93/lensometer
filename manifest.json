@@ -1,0 +1,10 @@
+{
+    "name": "Lensometer Tool",
+    "short_name": "Lensometer",
+    "start_url": "/lensometer/index.html",
+    "scope": "http://localhost/lensometer/",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#26a69a",
+    "orientation": "portrait-primary"
+  }
