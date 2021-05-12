@@ -1,17 +1,11 @@
 {
-  "name": "lensometer-tool",
-  "version": "1.0.0",
-  "description": "",
-  "homepage": "./",
-  "main": "serviceWorker.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "pwa": "create-pwa --icon=\"icon.png\" --launch=\"icon.png\""
   },
-  "author": "",
+  "name": "lensometer-pwa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ahmad",
   "license": "ISC",
-  "devDependencies": {
-    "gh-pages": "^3.0.0"
-  }
+  "description": ""
 }
